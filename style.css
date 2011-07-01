@@ -274,3 +274,10 @@ float: right;
   margin: 0 auto;
     width: 40px;
 }
+
+.separador {
+height: 30px;
+background-color: #fff;
+border-left: 1px solid #ccc;
+border-right: 1px solid #ccc;
+}
